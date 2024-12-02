@@ -1,2 +1,2 @@
 # my_first_repo
-My first repo, to test github
+My first repo, to test GitHub
